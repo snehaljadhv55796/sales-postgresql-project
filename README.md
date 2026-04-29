@@ -1,8 +1,8 @@
-# 🛒 Sales Analytics System (PostgreSQL)
+# E-Commerce Analytics System | PostgreSQL
 
 ## 📌 Project Overview
 
-This project is a complete Sales Analytics System built using PostgreSQL.
+This project is a complete E-Commerce Analytics System built using PostgreSQL.
 It processes raw CSV data, normalizes it into structured tables, and generates business insights using SQL queries.
 
 ---
